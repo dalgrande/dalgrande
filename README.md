@@ -1,4 +1,4 @@
-# Hi there, I'm dalgrande! 👋
+# Hi there, I'm Frederico Dal Grande! 👋
 
 Welcome to my corner of GitHub. I'm passionate about building robust, user-centric solutions at the intersection of finance and technology. My focus is on creating seamless and intelligent systems that empower users and developers in the world of web3 and digital assets.
 
