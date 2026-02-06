@@ -61,4 +61,4 @@ Over the past 5 years, I've worked extensively with:
 I'm always excited to collaborate on projects that push the boundaries of what's possible in fintech and web3. Feel free to explore my repositories and contributions!
 
 ---
-*Building the future, one commit at a time* 🚀
+*Building the future, one commit at a time* 🚀🚀🚀
